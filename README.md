@@ -28,3 +28,5 @@ Usage: check_b2note.sh [-h|-V|-d|-t time]
        -t timeout limit in seconds. The default is 30 s.
 ```
 It just checks the responsivity of the server.
+
+Version 1
